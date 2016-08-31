@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9557737fb2145731d7bed84427563e604d201dda/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_a7a452c016dcaeb0c3ae1a1316d1d2b2e0212465/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_bca628c05a4cd747441f64e1a0276788f222898e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_06ef3987bec5bdae642c98ca004d95cc621ca9ee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_c26eab0e8b3a9b2d3062bf5de746e9161d806d73/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3d4677a1069d01b4ad5be8005fda4340d307e44f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_f11940f1647b22caae0bc2557f60c12e5c8c3cbf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_41ba9244f01898662f0b649baa30b73d131e9183/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_cc4c650cf7f6e4d10c3500f3c5e98b43fc312714/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_6723fa45acb81d5d65eb91045bc9c21e0969269b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_bb42a2b2d5fbec8d07c9a1a8a532a7066d6a6fe3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="354c871b52f1307c4cc53405b9d0305daf2946f1">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_683057ee789e340eb315c5a25dd2e16e949004ff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_5f49a174ed3c9990f2a5c706b3158f604cb064f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_473382d8bd1d2125520a2cff92fdd41b1a3871a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1c96f6e1fe52c4d4bb1c08fc333452f5fac4c143/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_4ae74180454dce72b33799020640fac1fa4a73b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="250da8d5cd58616f0380cde8f0aa1ee6254d7853">
+        <dex dex="/Users/mixja/Desktop/ACA/MixJacksonACA/DayCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3473e99cbf84973e502f102948df2998b3219c07/classes.dex" />
+    </item>
+
+</items>

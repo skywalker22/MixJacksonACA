@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="28649452760127"
+    token="4889284301954311780"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="614" />
+    <task
+        name="instant-run-dex"
+        duration="741" />
+    <task
+        name="instant-run-transform"
+        duration="107" />
+    <task
+        name="verifier"
+        duration="29" />
+
+    <artifact
+        location="/Users/mixja/Desktop/ACA/MixJacksonACA/Birthday/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="28415563276911" >
+        <artifact
+            location="/Users/mixja/Desktop/ACA/MixJacksonACA/Birthday/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="28649452760127"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/mixja/Desktop/ACA/MixJacksonACA/Birthday/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
